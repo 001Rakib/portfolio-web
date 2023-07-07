@@ -27,7 +27,7 @@ body {
 }
 
 .section-title {
-    Copy color: #181818;
+    color: #181818;
     text-align: center;
 
     font-size: 35px;
@@ -37,9 +37,8 @@ body {
 }
 
 section-description {
-    Copy color: #757575;
+    color: #757575;
     text-align: center;
-
     font-size: 18px;
 }
 
@@ -84,7 +83,7 @@ nav a {
     color: #474747;
 }
 
-` .banner .profile-pic {
+.banner .profile-pic {
     width: 500px;
 }
 
